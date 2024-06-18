@@ -40,11 +40,14 @@ header>h1 {
   color: white;
   font-family: var(--fonte-destaque);
   margin-bottom: 20px;
+  padding-top: 20px;
+  font-size: 40px;
   text-shadow: var(--box-shadow-padrao-texto);
 }
 
 header>p {
   color: white;
+  padding-bottom: 30px;
   text-shadow: var(--box-shadow-padrao-texto);
 }
 
